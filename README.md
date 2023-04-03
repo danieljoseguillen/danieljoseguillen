@@ -3,6 +3,8 @@
 <h3>I'm a passionate software developer. I consider myself someone that enjoys learning about new programming languages and technologies.</h3>
 </div>
 
+---
+
 <div id="connect" align="left">
   <h3>
     Connect with me:
@@ -32,8 +34,13 @@
 
 ---
 
-##My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieljoseguillen&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieljoseguillen&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### My languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoseguillen&langs_count=6&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **danieljoseguillen/danieljoseguillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="" title="" **alt="" width="40" height="40">&nbsp;
