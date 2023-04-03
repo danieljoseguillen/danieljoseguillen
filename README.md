@@ -1,6 +1,6 @@
 <div id="header" align="Center">
 <h1>Hello 👋 I'm Daniel.</h1>
-<h3>I'm a passionate software developer. I consider myself someone that enjoys learning about new programming languages and technologies.</h3>
+<h3>I'm a passionate software developer. I consider myself as someone who enjoys learning about new programming languages and technologies.</h3>
 </div>
 
 ---
