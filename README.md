@@ -30,6 +30,10 @@
   </div>
 </div>
 
+---
+
+##My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieljoseguillen&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **danieljoseguillen/danieljoseguillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="" title="" **alt="" width="40" height="40">&nbsp;
