@@ -1,8 +1,13 @@
-### Hi there 👋
+<div id="header" align="Center">
+<h1>Hello 👋 I'm Daniel.</h1>
+</div>
+
 
 <!--
 **danieljoseguillen/danieljoseguillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href=”https://www.linkedin.com/in/daniel-jose-guillen/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
