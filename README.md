@@ -27,8 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" **alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="" width="40" height="40">&nbsp;
+    <img src="http://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="" width="40" height="40">&nbsp;
   </div>
 </div>
 
